@@ -58,6 +58,8 @@ pbcopy < ~/.ssh/id_rsa.pub
 
 Add it to the GitHub account settings
 
+![alt text](https://github.com/bjoernsteffens/datasciencecoursera/blob/master/ssh_keys.png "Adding your ssh keys to your Github accunt")
+
 ## Test the connection
 
 ssh -vT git@github.com
