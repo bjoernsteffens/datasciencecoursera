@@ -2,6 +2,11 @@
 
 http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
 
+## Cheatsheet for managing Github
+
+http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;
+
+
 ## Something about different workflows
 
 http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
