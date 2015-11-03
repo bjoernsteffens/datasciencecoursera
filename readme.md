@@ -1,6 +1,10 @@
 ## Cheat sheet for setting up github on Apple
 
-  http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
+http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
+
+## Something about different workflows
+
+http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
 
 ## My Credentials
 
