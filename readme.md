@@ -14,6 +14,15 @@ http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;
 2. Make changes to your project and apply the changes to your copy/fork at your Github account
 3. Create a pull request if you want to contribute to the original project you forked. This will send a notification to the owner of the original repo to review and accept/reject your proposed changes.
 
+If you want to pull changes made to the upstream project execute the following commands
+
+_git add upstream url_to_the_upstream_project_
+_git merge upstream/master_
+
+push the changes back to your master
+
+_git push origin master_
+
 ## Something about different workflows
 
 http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
