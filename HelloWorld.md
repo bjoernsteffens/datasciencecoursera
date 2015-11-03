@@ -1,4 +1,4 @@
-## This is a markdown files
+## This is a markdown file
 
 ## Markdown cheatsheet
 
