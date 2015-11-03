@@ -16,8 +16,9 @@ http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;
 
 If you want to pull changes made to the upstream project execute the following commands
 
-_git add upstream url_to_the_upstream_project_
-_git merge upstream/master_
+__git add upstream url_to_the_upstream_project__
+
+__git merge upstream/master__
 
 push the changes back to your master
 
