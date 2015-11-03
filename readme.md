@@ -22,7 +22,7 @@ __git merge upstream/master__
 
 push the changes back to your master
 
-_git push origin master_
+__git push origin master__
 
 ## Something about different workflows
 
